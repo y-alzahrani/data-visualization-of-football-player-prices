@@ -23,6 +23,10 @@ The Python code involves cleaning the data into an appropriate format for data v
 3. The market value of players peaks at approximately the age of 24.
 4. There is a tremendous influx of wealth in the Premier League. It outsepnt every other major league in Europe in the summer of 2023 by a huge margin.
 
-!(images/1.png)
+![Top 10 countries with the most valuable players](images/1.png)
 
 *Figure 1: Top 10 countries with the most valuable players.*
+
+![Top 6 leagues with highest transfer fee spending in summer of 2023](images/1.png)
+
+*Figure 2: Top 6 leagues with highest transfer fee spending in summer of 2023*
