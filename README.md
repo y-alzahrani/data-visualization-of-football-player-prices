@@ -11,10 +11,14 @@ player’s club, the league he plays in, etc.
 2. Football Summer Market: CSV file that contains information about players that transferred
 to new clubs in the summer of 2023, such as the transfer fee and their old and new clubs.
 
-3. 2022-2023 Football Player Stats: CSV file that contains the previous season’s (2022/23) statistics on players in the Big Five European leagues. These are the Premier League in England,
+3. 2022-2023 Football Player Stats: CSV file that contains the previous season’s (2022/23) statistics on players in the Big Five European leagues. These are the Premier League in England,
 La Liga in Spain, Serie A in Italy, Bundesliga in Germany, and Ligue 1 in France.
 
 The Python code involves cleaning the data into a presentable format for data visualization.
 
-# results
+# Results
 
+1. Players from England, France and Spain are the most expensive.
+2. The most expensive players are attack-oriented.
+3. The market value of players peaks at approximately the age of 24.
+4. There is a tremendous influx of wealth in the Premier League. It outsepnt every other major league in Europe in the summer of 2023 by a huge margin.
