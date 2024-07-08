@@ -14,7 +14,7 @@ to new clubs in the summer of 2023, such as the transfer fee and their old and n
 3. 2022-2023 Football Player Stats: CSV file that contains the previous season’s (2022/23) statistics on players in the Big Five European leagues. These are the Premier League in England,
 La Liga in Spain, Serie A in Italy, Bundesliga in Germany, and Ligue 1 in France.
 
-The Python code involves cleaning the data into a presentable format for data visualization.
+The Python code involves cleaning the data into an appropriate format for data visualization.
 
 ## Results
 
