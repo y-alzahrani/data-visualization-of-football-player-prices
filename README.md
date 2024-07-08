@@ -27,6 +27,19 @@ The Python code involves cleaning the data into an appropriate format for data v
 
 *Figure 1: Top 10 countries with the most valuable players.*
 
-![Top 6 leagues with highest transfer fee spending in summer of 2023](images/1.png)
+![Top 6 leagues with highest transfer fee spending in summer of 2023](images/3.png)
 
 *Figure 2: Top 6 leagues with highest transfer fee spending in summer of 2023*
+
+![Net transfer fee spending by league in summer of 2023](images/4.png)
+
+*Figure 3: Net transfer fee spending by league in summer of 2023*
+
+
+
+
+
+
+
+
+
