@@ -22,3 +22,5 @@ The Python code involves cleaning the data into an appropriate format for data v
 2. The most expensive players are attack-oriented.
 3. The market value of players peaks at approximately the age of 24.
 4. There is a tremendous influx of wealth in the Premier League. It outsepnt every other major league in Europe in the summer of 2023 by a huge margin.
+
+![Top 10 countries with the most valuable players](images/1.png)
