@@ -35,10 +35,21 @@ The Python code involves cleaning the data into an appropriate format for data v
 
 *Figure 3: Net transfer fee spending by league in summer of 2023*
 
+![Number of players with market value between €20m and €50m by position](images/5.png)
 
+*Figure 4: Number of players with market value between €20m and €50m by position*
 
+![Number of players with market value between €50m and €100m by position](images/6.png)
 
+*Figure 5: Number of players with market value between €50m and €100m by position*
 
+![Number of players with market value over €100m by position](images/7.png)
+
+*Figure 6: Number of players with market value over €100m by position*
+
+![Scatter plot of Player Market Value vs. Age](images/8.png)
+
+*Figure 7: Scatter plot of Player Market Value vs. Age*
 
 
 
